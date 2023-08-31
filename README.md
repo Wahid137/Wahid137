@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Wahid Ahmed Shanto
 #### I am Junior Web Developer
+![](https://komarev.com/ghpvc/?username=wahid137&style=flat-square)
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
 Skills: JAVASCRIPT / REACT / NODE JS / HTML / CSS
@@ -25,4 +26,4 @@ Skills: JAVASCRIPT / REACT / NODE JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Wahid137)  
 
-![Profile views](https://gpvc.arturio.dev/Wahid137)  
+
