@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Wahid Ahmed Shanto
-#### I am Junior Web Developer
+#### Junior Web Developer
 ![](https://komarev.com/ghpvc/?username=wahid137&style=flat-square)
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
