@@ -4,7 +4,7 @@
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
-Skills: JAVASCRIPT / REACT / NODE JS / HTML / CSS
+Skills: JAVASCRIPT / REACT / NODE JS / EXPRESS JS/ MONGO DB / HTML / CSS
 
 - 🔭 I’m currently working on MERN STACK 
 - 🌱 I’m currently learning React Native 
