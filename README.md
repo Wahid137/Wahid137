@@ -3,7 +3,15 @@
 ![](https://komarev.com/ghpvc/?username=wahid137&style=flat-square)
 
 ## 💫 About Me:
-🔭 I’m currently working on MERN STACK<br>🌱 I’m currently learning React Native<br>👯 I’m looking to collaborate on any MERN STACK project<br>🤔 I’m looking for help with any problem<br>💬 Ask me about Free to ask me anything
+🔭 I’m currently working on MERN STACK<br>
+
+🌱 I’m currently learning React Native<br>
+
+👯 I’m looking to collaborate on any MERN STACK project<br>
+
+🤔 I’m looking for help with any problem<br>
+
+💬 Ask me about Free to ask me anything
 
 
 # 💻 Tech Stack:
